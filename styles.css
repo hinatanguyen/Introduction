@@ -1,0 +1,82 @@
+h2 {
+    color: cyan;
+    font-size: 30px;
+    text-align: center
+}
+
+#avatar {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+
+}
+
+.intro {
+    font-size: 20px;
+}
+
+
+
+.middle {
+    margin: 100px 0;
+}
+
+
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+
+.text {
+    font-size: 20px;
+    text-align: left;
+}
+
+.about-img {
+    width: 200px;
+    height: 200px;
+    margin: 0 20px;
+}
+
+.about {
+    text-align: left;
+
+}
+
+.about-css {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    line-height: 2;
+    font-size: 20px;
+}
+
+hr {
+    border: dotted #aaf0f0 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.skill-css {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    display: flex;
+}
